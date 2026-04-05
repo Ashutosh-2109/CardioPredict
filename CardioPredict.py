@@ -78,7 +78,7 @@ print("\nShape after cleaning:", df.shape)
 # =========================
 # ENCODING (already numeric categories mostly)
 # =========================
-# No need for one-hot here because values are already encoded (0,1,2...)
+
 
 # =========================
 # PHASE 3: FEATURE ENGINEERING
